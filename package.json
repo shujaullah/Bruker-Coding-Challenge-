@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.12",
     "@types/node": "18.11.8",
     "@types/react": "18.0.24",
     "@types/react-dom": "18.0.8",
+    "bootstrap": "^5.2.2",
+    "edit-json-file": "^1.7.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "next": "13.0.1",
     "react": "18.2.0",
+    "react-bootstrap": "^2.5.0",
     "react-dom": "18.2.0",
+    "react-form-hook": "0.0.1",
     "typescript": "4.8.4"
   }
 }
